@@ -1,0 +1,3 @@
+[submodule "underwater-stereo-rig-software"]
+	path = underwater-stereo-rig-software
+	url = https://github.com/awilby/underwater-stereo-rig-software
